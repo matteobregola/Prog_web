@@ -17,7 +17,7 @@ public class input extends Calculator {
         String nameC = getValueFromCookie(request, "name");
         if (nameC == null) {
             /*
-              Option 1: new user come form the homepage page
+              Option 1: new user coming from the homepage page
               need to create the cookie
              */
 
