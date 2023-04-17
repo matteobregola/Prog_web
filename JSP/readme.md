@@ -1,0 +1,1 @@
+The projects doesn't contain the whole implementation but only the files needed to built it.
