@@ -1,0 +1,1 @@
+This folder contains some programs to pratice with JS.
